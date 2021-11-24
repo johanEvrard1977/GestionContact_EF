@@ -1,0 +1,24 @@
+C:\Sources\ASP.Net core\GestionContactEF\GestionContact - Stephane\MailService\bin\Debug\net5.0\MailService.deps.json
+C:\Sources\ASP.Net core\GestionContactEF\GestionContact - Stephane\MailService\bin\Debug\net5.0\MailService.dll
+C:\Sources\ASP.Net core\GestionContactEF\GestionContact - Stephane\MailService\bin\Debug\net5.0\ref\MailService.dll
+C:\Sources\ASP.Net core\GestionContactEF\GestionContact - Stephane\MailService\bin\Debug\net5.0\MailService.pdb
+C:\Sources\ASP.Net core\GestionContactEF\GestionContact - Stephane\MailService\obj\Debug\net5.0\MailService.csprojAssemblyReference.cache
+C:\Sources\ASP.Net core\GestionContactEF\GestionContact - Stephane\MailService\obj\Debug\net5.0\MailService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sources\ASP.Net core\GestionContactEF\GestionContact - Stephane\MailService\obj\Debug\net5.0\MailService.AssemblyInfoInputs.cache
+C:\Sources\ASP.Net core\GestionContactEF\GestionContact - Stephane\MailService\obj\Debug\net5.0\MailService.AssemblyInfo.cs
+C:\Sources\ASP.Net core\GestionContactEF\GestionContact - Stephane\MailService\obj\Debug\net5.0\MailService.csproj.CoreCompileInputs.cache
+C:\Sources\ASP.Net core\GestionContactEF\GestionContact - Stephane\MailService\obj\Debug\net5.0\MailService.dll
+C:\Sources\ASP.Net core\GestionContactEF\GestionContact - Stephane\MailService\obj\Debug\net5.0\ref\MailService.dll
+C:\Sources\ASP.Net core\GestionContactEF\GestionContact - Stephane\MailService\obj\Debug\net5.0\MailService.pdb
+C:\Sources\ASP.Net core\GestionContactEF\GestionContact\MailService\bin\Debug\net5.0\MailService.deps.json
+C:\Sources\ASP.Net core\GestionContactEF\GestionContact\MailService\bin\Debug\net5.0\MailService.dll
+C:\Sources\ASP.Net core\GestionContactEF\GestionContact\MailService\bin\Debug\net5.0\ref\MailService.dll
+C:\Sources\ASP.Net core\GestionContactEF\GestionContact\MailService\bin\Debug\net5.0\MailService.pdb
+C:\Sources\ASP.Net core\GestionContactEF\GestionContact\MailService\obj\Debug\net5.0\MailService.csprojAssemblyReference.cache
+C:\Sources\ASP.Net core\GestionContactEF\GestionContact\MailService\obj\Debug\net5.0\MailService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sources\ASP.Net core\GestionContactEF\GestionContact\MailService\obj\Debug\net5.0\MailService.AssemblyInfoInputs.cache
+C:\Sources\ASP.Net core\GestionContactEF\GestionContact\MailService\obj\Debug\net5.0\MailService.AssemblyInfo.cs
+C:\Sources\ASP.Net core\GestionContactEF\GestionContact\MailService\obj\Debug\net5.0\MailService.csproj.CoreCompileInputs.cache
+C:\Sources\ASP.Net core\GestionContactEF\GestionContact\MailService\obj\Debug\net5.0\MailService.dll
+C:\Sources\ASP.Net core\GestionContactEF\GestionContact\MailService\obj\Debug\net5.0\ref\MailService.dll
+C:\Sources\ASP.Net core\GestionContactEF\GestionContact\MailService\obj\Debug\net5.0\MailService.pdb
